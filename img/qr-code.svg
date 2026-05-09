@@ -1,0 +1,75 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="70" height="70" rx="3" fill="white"/>
+<rect x="1" y="1" width="70" height="70" rx="3" stroke="#333333" stroke-width="2"/>
+<rect x="1" y="1" width="70" height="70" rx="3" stroke="#333333" stroke-width="2"/>
+<rect x="1" y="1" width="70" height="70" rx="3" stroke="#333333" stroke-width="2"/>
+<rect x="1" y="1" width="70" height="70" rx="3" stroke="#333333" stroke-width="2"/>
+<g clip-path="url(#clip0_1_66)">
+<g clip-path="url(#clip1_1_66)">
+<path d="M70 6H6V70H70V6Z" fill="white"/>
+<path d="M26 8H8V26H26V8Z" fill="#0A0A0A"/>
+<path d="M24 10H10V24H24V10Z" fill="white"/>
+<path d="M22 12H12V22H22V12Z" fill="#0A0A0A"/>
+<path d="M68 8H50V26H68V8Z" fill="#0A0A0A"/>
+<path d="M66 10H52V24H66V10Z" fill="white"/>
+<path d="M64 12H54V22H64V12Z" fill="#0A0A0A"/>
+<path d="M26 50H8V68H26V50Z" fill="#0A0A0A"/>
+<path d="M24 52H10V66H24V52Z" fill="white"/>
+<path d="M22 54H12V64H22V54Z" fill="#0A0A0A"/>
+<path d="M32 8H28V12H32V8Z" fill="#0A0A0A"/>
+<path d="M38 8H34V12H38V8Z" fill="#0A0A0A"/>
+<path d="M46 8H42V12H46V8Z" fill="#0A0A0A"/>
+<path d="M32 14H28V18H32V14Z" fill="#0A0A0A"/>
+<path d="M40 14H36V18H40V14Z" fill="#0A0A0A"/>
+<path d="M48 14H44V18H48V14Z" fill="#0A0A0A"/>
+<path d="M34 20H30V24H34V20Z" fill="#0A0A0A"/>
+<path d="M42 20H38V24H42V20Z" fill="#0A0A0A"/>
+<path d="M12 28H8V32H12V28Z" fill="#0A0A0A"/>
+<path d="M18 28H14V32H18V28Z" fill="#0A0A0A"/>
+<path d="M26 28H22V32H26V28Z" fill="#0A0A0A"/>
+<path d="M32 28H28V32H32V28Z" fill="#0A0A0A"/>
+<path d="M40 28H36V32H40V28Z" fill="#0A0A0A"/>
+<path d="M48 28H44V32H48V28Z" fill="#0A0A0A"/>
+<path d="M56 28H52V32H56V28Z" fill="#0A0A0A"/>
+<path d="M64 28H60V32H64V28Z" fill="#0A0A0A"/>
+<path d="M14 34H10V38H14V34Z" fill="#0A0A0A"/>
+<path d="M22 34H18V38H22V34Z" fill="#0A0A0A"/>
+<path d="M30 34H26V38H30V34Z" fill="#0A0A0A"/>
+<path d="M38 34H34V38H38V34Z" fill="#0A0A0A"/>
+<path d="M46 34H42V38H46V34Z" fill="#0A0A0A"/>
+<path d="M54 34H50V38H54V34Z" fill="#0A0A0A"/>
+<path d="M62 34H58V38H62V34Z" fill="#0A0A0A"/>
+<path d="M12 40H8V44H12V40Z" fill="#0A0A0A"/>
+<path d="M20 40H16V44H20V40Z" fill="#0A0A0A"/>
+<path d="M28 40H24V44H28V40Z" fill="#0A0A0A"/>
+<path d="M36 40H32V44H36V40Z" fill="#0A0A0A"/>
+<path d="M44 40H40V44H44V40Z" fill="#0A0A0A"/>
+<path d="M52 40H48V44H52V40Z" fill="#0A0A0A"/>
+<path d="M60 40H56V44H60V40Z" fill="#0A0A0A"/>
+<path d="M68 40H64V44H68V40Z" fill="#0A0A0A"/>
+<path d="M32 50H28V54H32V50Z" fill="#0A0A0A"/>
+<path d="M40 50H36V54H40V50Z" fill="#0A0A0A"/>
+<path d="M48 50H44V54H48V50Z" fill="#0A0A0A"/>
+<path d="M56 50H52V54H56V50Z" fill="#0A0A0A"/>
+<path d="M64 50H60V54H64V50Z" fill="#0A0A0A"/>
+<path d="M32 56H28V60H32V56Z" fill="#0A0A0A"/>
+<path d="M38 56H34V60H38V56Z" fill="#0A0A0A"/>
+<path d="M46 56H42V60H46V56Z" fill="#0A0A0A"/>
+<path d="M54 56H50V60H54V56Z" fill="#0A0A0A"/>
+<path d="M62 56H58V60H62V56Z" fill="#0A0A0A"/>
+<path d="M34 62H30V66H34V62Z" fill="#0A0A0A"/>
+<path d="M42 62H38V66H42V62Z" fill="#0A0A0A"/>
+<path d="M50 62H46V66H50V62Z" fill="#0A0A0A"/>
+<path d="M58 62H54V66H58V62Z" fill="#0A0A0A"/>
+<path d="M66 62H62V66H66V62Z" fill="#0A0A0A"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_66">
+<rect width="64" height="64" fill="white" transform="translate(6 6)"/>
+</clipPath>
+<clipPath id="clip1_1_66">
+<rect width="64" height="64" fill="white" transform="translate(6 6)"/>
+</clipPath>
+</defs>
+</svg>
