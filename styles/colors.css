@@ -1,0 +1,16 @@
+:root {
+  /* Grayscale */
+  --clr-white: #ffffff;
+  --clr-gray-100: #e0e0e0;
+  --clr-gray-200: #dddddd;
+  --clr-gray-500: #555555;
+  --clr-gray-700: #333333;
+  --clr-gray-800: #1a1a1a;
+  --clr-gray-900: #0a0a0a;
+  --clr-black-20: rgba(0, 0, 0, 0.2);
+
+  /* Brand / Accent Colors */
+  --clr-gold: #c8a84b;
+  --clr-blue: #1a3a8f;
+  --clr-red: #c0392b;
+}
